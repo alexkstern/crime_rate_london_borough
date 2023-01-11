@@ -4,8 +4,12 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 
 df = pd.read_csv("df_2016_2018_for_maps2.csv", sep = ";")
-#df = pd.read_csv("mean_top_five_important_attributes_2016_2018.csv")
 
+# print(df.head())
+
+# df.to_excel("df_prelim.xlsx", index = False)
+
+# print(df["Borough"])
 
 df["crime"] = df["crime"].astype(float)
 df["population_per_hectare"] = df["population_per_hectare"].astype(float)
