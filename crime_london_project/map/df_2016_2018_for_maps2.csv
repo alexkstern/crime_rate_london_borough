@@ -1,0 +1,33 @@
+borough;crime;population_per_hectare;pubs;health;public_admin_and_defense;dwellings
+Barking and Dagenham;84;58;32;11;4;20
+Barnet;66;45;115;15;3;17
+Bexley;58;41;37;10;4;15
+Brent;85;77;77;15;2;27
+Bromley;66;22;97;16;3;9
+Camden;129;114;206;12;3;48
+Croydon;77;45;128;13;8;18
+Ealing;81;63;123;10;3;24
+Enfield;75;41;47;15;3;15
+Greenwich;85;60;61;17;6;22
+Hackney;107;146;69;12;5;57
+Hammersmith and Fulham;114;111;130;9;4;51
+Haringey;109;95;39;11;4;36
+Harrow;55;50;73;14;3;18
+Havering;70;23;35;16;3;9
+Hillingdon;86;27;116;8;4;9
+Hounslow;88;49;96;7;2;18
+Islington;123;159;81;8;3;69
+Kensington and Chelsea;133;130;107;12;3;70
+Kingston upon Thames;64;48;70;12;4;18
+Lambeth;107;124;116;22;6;51
+Lewisham;81;87;73;18;4;36
+Merton;65;55;72;9;3;22
+Newham;95;96;62;11;5;29
+Redbridge;72;54;43;16;6;18
+Richmond upon Thames;63;34;84;9;2;14
+Southwark;106;110;112;10;6;44
+Sutton;57;47;67;17;3;19
+Tower Hamlets;97;157;114;9;4;54
+Waltham Forest;81;72;39;15;3;26
+Wandsworth;75;93;199;20;4;41
+Westminster;220;117;222;5;9;56
